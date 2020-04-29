@@ -1,4 +1,5 @@
-﻿;___________________
+﻿; LICENSE: GNU General Public License v3.0
+ ;___________________
 ;Skrypt napisany przez:
 ;  discopolo_PT
 ;Skrypt napisany dla Gildi
