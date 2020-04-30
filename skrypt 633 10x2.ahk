@@ -20,9 +20,8 @@ Return
 
 Start:
 	loop{
-		reJoin()				;Wbijanie na serwer
-		Command("/repair")
-		Command("discopolo_PT <3")
+		Command("/repair") ;Komenda "/repair" lub "/naprawkilof" (musi być /)
+		Command("discopolo_PT <3") ; Widomość na chacie
 		Eat(2)				;Ilosc zjedzonego mięska
 		Dig(25)    				;Ilosc Okrążeń na stoniarce
 	}
@@ -137,3 +136,5 @@ setMPos(x, y){
 Wait(s){
 	sleep, s
 }
+;												all rights reserved
+;												    discopolo_PT
