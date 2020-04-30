@@ -17,8 +17,9 @@ Return
 
 Start:
 	loop{
-		Dig(15)
-		Command("<3")
+		Dig(120)
+		Command("discopolo_PT <3")
+		Command("/repair")
 	}
 Return
 
