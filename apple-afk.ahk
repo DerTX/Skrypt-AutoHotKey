@@ -18,8 +18,8 @@ Return
 Start:
 	loop{
 		Dig(120)
-		Command("discopolo_PT <3")
-		Command("/repair")
+		Command("discopolo_PT <3") ;wiadomość na chacie
+		Command("/repair") ;naprawianie norzyc (musi być "/")
 	}
 Return
 
