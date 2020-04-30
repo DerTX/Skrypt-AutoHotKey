@@ -2,8 +2,6 @@
  ;___________________
 ;Skrypt napisany przez:
 ;  discopolo_PT
-;Skrypt napisany dla Gildi
-;		[PT]
 ;___________________
 ;___________________
 ;		[Opcje]		 
