@@ -96,4 +96,5 @@ Powr(int){
 }
 
 ;																																						copyright ©. all right reserved.
-																																						
+													all rights reserved																												
+													    discopolo_PT
